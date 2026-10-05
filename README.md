@@ -34,7 +34,6 @@ Currently looking for **remote ML / AI Engineering** roles (US/EU).
 | **Network Intrusion Detection** | CESNET / CICIDS2017 with an MLOps pipeline | Python, MLflow, Docker |
 | **EUR/TND Forecasting** | 5 DL models compared, SHAP explainability, Streamlit app | PyTorch, Streamlit, SHAP |
 | **JobMatch AI** | NLP / NER job matching, mobile app | spaCy, Flutter |
-| **Flight Delay Prediction** | Predict delays from flight data | XGBoost, FastAPI |
 | **Stroke Severity Prediction** | Research-style ML pipeline, fuzzy severity index | XGBoost, SMOTE |
 
 ---
