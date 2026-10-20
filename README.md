@@ -71,26 +71,25 @@
 
 ---
 
-### 📊 GitHub Stats
+
+
+## GitHub Stats
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td width="65%" align="center">
-        <!-- Replaces the stats block from the reference with your specific API calls -->
-        <img src="https://github-readme-stats.vercel.app/api?username=hiba255&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Hiba's GitHub Stats"/>
-        <br/><br/>
-        <img src="https://streak-stats.demolab.com/?user=hiba255&theme=tokyonight&hide_border=true&ring=00d084&fire=00d084" alt="GitHub Streak Stats"/>
-      </td>
-      <td width="35%" align="center">
-        <!-- Vertical image placement matching the Kaneki artwork from the reference -->
-        <img src="https://i.pinimg.com/originals/d6/31/6f/d6316f4d3600ddb00021c1722e11db0e.gif" alt="Tech/Anime Vertical Visual" width="100%" style="border-radius: 10px;"/>
-      </td>
-    </tr>
-  </table>
+  <img src="https://streak-stats.demolab.com/?user=hiba255&theme=dark&hide_border=true&background=0a0a0a&ring=00d084&fire=00d084&currStreakLabel=00d084&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888&v=2&cache_bust=20261005" width="60%" alt="GitHub Streak Stats"/>
 </div>
 
 <div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hiba255&theme=github_dark&cache_bust=20261005" width="100%" alt="GitHub Profile Summary"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hiba255&theme=github_dark&cache_bust=20261005" width="49%" alt="Repos per Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hiba255&theme=github_dark&cache_bust=20261005" width="49%" alt="Most Commit Language"/>
+</div>
+
+---
+
   <!-- GitHub Contribution Snake Animation -->
   <br/>
   <picture>
