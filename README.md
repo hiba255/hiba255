@@ -5,7 +5,7 @@
   <img src="assets/banner.svg" alt="Hiba Ben Selma banner" width="100%">
 </p>
 
-#  Hi, I'm Hiba!
+#  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hiba-ben-selma-5707b63b3/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
