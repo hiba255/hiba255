@@ -1,7 +1,9 @@
 <div align="center">
 
 <!-- BANNER IMAGE -->
-<img src="https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?q=80&w=1000&auto=format&fit=crop" alt="AI Cyber Banner" width="100%" height="250" style="object-fit: cover; border-radius: 10px;"/>
+<p align="center">
+  <img src="assets/banner.svg" alt="Hiba Ben Selma banner" width="100%">
+</p>
 
 #  Hi, I'm Hiba!
 
