@@ -70,6 +70,29 @@
 </div>
 
 ---
+## Tech Stack
+
+<div align="center">
+
+**Languages & ML**
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,sklearn&theme=dark" />
+
+**Backend & Data**
+
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,spring,postgres,mongodb,docker&theme=dark" />
+
+**Frontend & Mobile**
+
+<img src="https://skillicons.dev/icons?i=js,react,angular,flutter&theme=dark" />
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,linux&theme=dark" />
+
+</div>
+
+---
 
 
 
@@ -103,10 +126,4 @@
 
 <br/>
 
-<h3 align="center"> 🛠️ Languages-Frameworks-Tools 🛠️ </h3>
 
-<div align="center">
-  <br/>
-  <!-- Dense icon grid matching the reference image layout -->
-  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,fastapi,nodejs,spring,postgres,mongodb,docker,js,react,angular,flutter,git,github,linux&theme=dark&perline=8" alt="Tech Stack Grid" />
-</div>
