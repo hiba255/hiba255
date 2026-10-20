@@ -83,7 +83,7 @@
     <text x="0" y="98" font-size="15" font-weight="bold" class="cyan" letter-spacing="1.5">DATA SCIENCE &amp; AI ENGINEER</text>
 
     <text x="0" y="138" class="dim"><tspan class="pink">&gt;</tspan> status    :: final-year engineering student</text>
-    <text x="0" y="162" class="dim"><tspan class="pink">&gt;</tspan> focus     :: ML · NLP · medical AI research</text>
+    <text x="0" y="162" class="dim"><tspan class="pink">&gt;</tspan> focus     :: ML · NLP · DL</text>
     <text x="0" y="186" class="dim"><tspan class="pink">&gt;</tspan> stack     :: PyTorch · XGBoost · FastAPI · Docker</text>
     <text x="0" y="210" class="dim"><tspan class="pink">&gt;</tspan> base      :: Sousse, Tunisia 🇹🇳 → remote worldwide</text>
 
