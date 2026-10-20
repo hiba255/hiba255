@@ -1,9 +1,7 @@
 <div align="center">
 
 <!-- BANNER IMAGE -->
-<p align="center">
-  <img src="assets/banner.svg" alt="Hiba Ben Selma banner" width="100%">
-</p>
+
 
 #  Hi, I'm Hiba!
 
