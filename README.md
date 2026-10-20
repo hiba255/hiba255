@@ -22,17 +22,13 @@
       <td width="70%">
         <ul>
           <li>🎓 <b>Education:</b> Final-year Computer Engineering student specializing in Data Science & AI.</li>
-          <li>🔭 <b>Currently looking for:</b> Remote ML / AI Engineering roles (US/EU).</li>
           <li>💼 <b>Experience:</b> Internship @ NEXANS (Anomaly Detection).</li>
           <li>⚡ <b>Specialty:</b> Building end-to-end ML projects: data, model, explainability, API, deployment.</li>
           <li>🧪 <b>Background:</b> Preparatory cycle in Physics-Chemistry (Strong math/scientific foundations).</li>
         </ul>
       </td>
-      <td width="30%" align="center">
-        <!-- Replaces the chibi pixel art from the reference with a floating 3D brain/robot -->
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot Emoji" width="120" />
-      </td>
-    </tr>
+     
+   
   </table>
 </div>
 
