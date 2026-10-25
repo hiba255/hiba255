@@ -54,9 +54,9 @@
     </tr>
     <tr>
       <td width="50%">
-        <b>🤝 JobMatch AI</b><br/>
-        <i>spaCy, Flutter</i><br/>
-        NLP / NER based job matching system connected to a mobile application.
+        <b>🌷 Bestie</b><br/>
+        <i>React,Express.js, Ollama</i><br/>
+        AI-powered wellbeing web app supporting students and young women through mood tracking, stress management, self-care, academic planning and personalized           AI guidance in a safe, private, and supportive environment.
       </td>
       <td width="50%">
         <b>🧠 Stroke Severity Prediction</b><br/>
